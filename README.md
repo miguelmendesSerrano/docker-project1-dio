@@ -15,7 +15,9 @@ This repository contains the Docker Compose project for [Digital Innovation One]
 - Navigate to the project directory.
 - Run the command below to start the container:
    
-```docker compose up -d ```
+```bash
+  docker compose up -d
+```
 
 
 ## Author
